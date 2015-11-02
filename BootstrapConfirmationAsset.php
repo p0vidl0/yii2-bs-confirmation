@@ -1,6 +1,6 @@
 <?php
 
-namespace p0vidl0\BootstrapConfirmationAsset;
+namespace p0vidl0\bsconfirmation;
 
 use yii\web\AssetBundle;
 
