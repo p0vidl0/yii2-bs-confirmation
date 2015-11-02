@@ -1,0 +1,35 @@
+{
+    "name": "p0vidl0/yii2-bs-confirmation",
+    "description": "The Twitter Bootstrap Confirmation plugin extension for the Yii framework",
+    "keywords": ["yii2", "bootstrap", "confirmation],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/p0vidl0/yii2-bs-confirmation"
+    },
+    "authors": [
+        {
+            "name": "Alexandr Kalashnikov",
+            "email": "nixomsk@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.6",
+        "bower-asset/bootstrap": "3.3.* | 3.2.* | 3.1.*",
+        "bower-asset/p0vidl0-bs-confirmation":"1.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "p0vidl0\\yii2-bs-confirmation\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
