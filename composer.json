@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "p0vidl0\\yii2-bs-confirmation\\": ""
+            "p0vidl0\\bsconfirmation\\": ""
         }
     },
     "extra": {
