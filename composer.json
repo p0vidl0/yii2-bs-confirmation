@@ -1,7 +1,7 @@
 {
     "name": "p0vidl0/yii2-bs-confirmation",
     "description": "The Twitter Bootstrap Confirmation plugin extension for the Yii framework",
-    "keywords": ["yii2", "bootstrap", "confirmation],
+    "keywords": ["yii2", "bootstrap", "confirmation"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
